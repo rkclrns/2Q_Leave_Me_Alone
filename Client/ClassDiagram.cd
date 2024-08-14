@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameApplication" Collapsed="true">
+    <Position X="68.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Floor_03" Collapsed="true">
+    <Position X="0.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Floor\Floor_03.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Floor_02" Collapsed="true">
+    <Position X="2.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Floor\Floor_02.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameBackground" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\GameBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pot" Collapsed="true">
+    <Position X="19" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\pot\Pot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chandelier" Collapsed="true">
+    <Position X="21.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\chandelier\Chandelier.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bottle" Collapsed="true">
+    <Position X="23.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\bottle\Bottle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CandleLight" Collapsed="true">
+    <Position X="25.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\candleLight\CandleLight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bed" Collapsed="true">
+    <Position X="43.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\bed\Bed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clock_big" Collapsed="true">
+    <Position X="28" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\clock_big\Clock_big.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mannequin" Collapsed="true">
+    <Position X="30.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\mannequin\Mannequin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mirror_01" Collapsed="true">
+    <Position X="32.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\mirror_01\Mirror_01.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="M_window01" Collapsed="true">
+    <Position X="34.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\m_window01\M_window01.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piano" Collapsed="true">
+    <Position X="37" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\piano\Piano.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statue" Collapsed="true">
+    <Position X="39.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\statue\Statue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TV" Collapsed="true">
+    <Position X="41.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\TV\TV.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Broom" Collapsed="true">
+    <Position X="48.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\MovingObject\broom\Broom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chair" Collapsed="true">
+    <Position X="50.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\MovingObject\chair\Chair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Doll" Collapsed="true">
+    <Position X="52.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\MovingObject\doll\Doll.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OldBook" Collapsed="true">
+    <Position X="46" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\MovingObject\oldBook\OldBook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditBackground" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\CreditUI\CreditBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditText" Collapsed="true">
+    <Position X="15.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\CreditUI\CreditText.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameGaugeSkillUI" Collapsed="true">
+    <Position X="3.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\InGameUI\InGameGaugeSkillUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameSkillUI" Collapsed="true">
+    <Position X="7.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Script\UI\InGameUI\InGameSkillUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameTimeUI" Collapsed="true">
+    <Position X="10" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\InGameUI\InGameTimeUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameBackground" Collapsed="true">
+    <Position X="61.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\InGameUI\InGameBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameUI" Collapsed="true">
+    <Position X="71.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\InGameUI\InGameUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="68.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQACAAASiAAAAAAAEAAAAAAAAAAYAABAIMAAAAAAAA=</HashCode>
+      <FileName>Script\CameraController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloorBase" Collapsed="true">
+    <Position X="2.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAABAAAAAAAEAgAIAAAAAAAAIAAAAIAAAA=</HashCode>
+      <FileName>Script\Floor\FloorBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisposableObject" Collapsed="true">
+    <Position X="19" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\DisposableObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixedObject" Collapsed="true">
+    <Position X="35.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\FixedObject\FixedObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovingObject" Collapsed="true">
+    <Position X="49.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\MovingObject\MovingObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InteractiveObject" Collapsed="true">
+    <Position X="33.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAgAAAAAAAAAAAAAAAAAAAAQAEAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\InteractiveObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="57.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\Enemy\Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FadeSystem" Collapsed="true">
+    <Position X="66.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARAAAAQECAAAABSAAAACAACAAAAAACAAAAAAEAACAA=</HashCode>
+      <FileName>Manager\FadeSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Floor_01" Collapsed="true">
+    <Position X="5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Floor\Floor_01.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="55" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACAAAAAAAAAAIAAgAAAAAgAgAAQAAAAAAAA=</HashCode>
+      <FileName>Script\Object\Player\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonUI" Collapsed="true">
+    <Position X="15.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\ButtonUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxObject" Collapsed="true">
+    <Position X="66.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\BoxObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CircleObject" Collapsed="true">
+    <Position X="70" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\CircleObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroBackground" Collapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\IntroSceneUI\IntroBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroSceneText" Collapsed="true">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\IntroSceneUI\IntroSceneText.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditButton" Collapsed="true">
+    <Position X="12.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQRAAAAACQAAAAAAAAAKAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\TitleUI\CreditButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExitButton" Collapsed="true">
+    <Position X="14.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQRAAAAACQAAAAAAAAAKAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\TitleUI\ExitButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartButton" Collapsed="true">
+    <Position X="16.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQRAAAAACQAAAAAAAAAKAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\TitleUI\StartButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TitleBackground" Collapsed="true">
+    <Position X="59.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\TitleUI\TitleBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TitleLogo" Collapsed="true">
+    <Position X="64" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\TitleUI\TitleLogo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TutorialButton" Collapsed="true">
+    <Position X="19" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACQgAAAAAABAIAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\TitleUI\TutorialButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextUI" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAACABAIAAAAAAIEAAAAAAAAAAQAAAAAAAAAQ=</HashCode>
+      <FileName>Script\UI\TextUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TitlePlayer" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACAAAAAAIAACAAAgAAAAIgAgAAQIAAAAAAA=</HashCode>
+      <FileName>Script\Object\TitleObject\TitlePlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S_frame01" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\s_frame01\S_frame01.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S_lamp" Collapsed="true">
+    <Position X="14.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\s_lamp\S_lamp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TeaCup" Collapsed="true">
+    <Position X="16.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\InteractiveObject\DisposableObject\teaCup\TeaCup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credit" Collapsed="true">
+    <Position X="71.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAABAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>World\Credit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroScene_01" Collapsed="true">
+    <Position X="66.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAABAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>World\IntroScene_01.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="70" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBQAAAAAAAAAAAAEAAAAAAAAAAAAABQAAA=</HashCode>
+      <FileName>Manager\GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EffectBase" Collapsed="true">
+    <Position X="73.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Effect\EffectBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectBase" Collapsed="true">
+    <Position X="33.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\Object\ObjectBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestScript" Collapsed="true">
+    <Position X="66.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAARAAiAgAAAAAABAIAAAEBAAAAAMAAAAAAAACAA=</HashCode>
+      <FileName>Script\TestScript.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBase" Collapsed="true">
+    <Position X="10" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Script\UI\UIBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Title" Collapsed="true">
+    <Position X="68.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAABAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>World\Title.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_03" Collapsed="true">
+    <Position X="71.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAABAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>World\Stage_03.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_02" Collapsed="true">
+    <Position X="70" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAABAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>World\Stage_02.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stage_01" Collapsed="true">
+    <Position X="68.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAABAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>World\Stage_01.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test" Collapsed="true">
+    <Position X="73.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAIABAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>World\Test.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PlayerIdle" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadAnimation.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlayerHold" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadAnimation.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LoadSprite" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABAACAABAAACAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadResource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LoadAnimation" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAABAAAAABAAACAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadResource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LoadSound" Collapsed="true">
+    <Position X="66.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgAAAAAACAABAAACAAAAAAAABAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadResource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TitleLogoSprite" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TitleBackgroundSprite" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IntroBackgroundSprite" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlayerSprite" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="EnemySprite" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="InGameBackgroundSprite" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="InGameTimeSprite" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="InGameSkillSprite" Collapsed="true">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="InGameGaugeSkillSprite" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="InGameHumanBoxSprite" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CreditBackgroundSprite" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TestBackgroundSprite" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceLoad\LoadSprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="eCameraMode" Collapsed="true">
+    <Position X="66.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAQEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Script\CameraController.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eSoundGroup" Collapsed="true">
+    <Position X="68.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Manager\GameManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

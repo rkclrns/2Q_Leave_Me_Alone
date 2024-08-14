@@ -1,0 +1,92 @@
+#include "LoadSprite.h"
+
+TitleLogoSprite::TitleLogoSprite()
+{
+	_key = L"S_TitleLogo";
+	_path = L"Sprite/UI/TitleLogo.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+TitleBackgroundSprite::TitleBackgroundSprite()
+{
+	_key = L"S_TitleBackground";
+	_path = L"Sprite/UI/TitleBackground.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+PlayerSprite::PlayerSprite()
+{
+	_key = L"S_PlayerSheet";
+	_path = L"Sprite/Player/Moving_T.png";
+	_data = SpriteData(Vector2(14, 1));
+}
+
+EnemySprite::EnemySprite()
+{
+	_key = L"S_EnemySheet";
+	_path = L"Sprite/Enemy/TestEnemy.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+IntroBackgroundSprite::IntroBackgroundSprite()
+{
+	_key = L"S_IntroBackground";
+	_path = L"Sprite/UI/IntroBackground.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+InGameBackgroundSprite::InGameBackgroundSprite()
+{
+	_key = L"S_InGameBackground";
+	_path = L"Sprite/UI/map.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+InGameTimeSprite::InGameTimeSprite()
+{
+	_key = L"S_InGameTime";
+	_path = L"Sprite/UI/InGameTime.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+InGameSkillONSprite::InGameSkillONSprite()
+{
+	_key = L"S_InGameSkillOn";
+	_path = L"Sprite/UI/InGameSkillOn.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+InGameSkillOFFSprite::InGameSkillOFFSprite()
+{
+	_key = L"S_InGameSkillOff";
+	_path = L"Sprite/UI/InGameSkillOff.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+InGameGaugeSkillSprite::InGameGaugeSkillSprite()
+{
+	_key = L"S_InGameGaugeSkill";
+	_path = L"Sprite/UI/InGameGaugeSkill.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+InGameHumanBoxSprite::InGameHumanBoxSprite()
+{
+	_key = L"S_InGameHumanBox";
+	_path = L"Sprite/UI/InGameHumanBox.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+CreditBackgroundSprite::CreditBackgroundSprite()
+{
+	_key = L"S_CreditBackground";
+	_path = L"Sprite/UI/CreditBackground.png";
+	_data = SpriteData(Vector2(1, 1));
+}
+
+TestBackgroundSprite::TestBackgroundSprite()
+{
+	_key = L"TestBackGround";
+	_path = L"Sprite/UI/TestBackGround.png";
+	_data = SpriteData(Vector2(1, 1));
+}

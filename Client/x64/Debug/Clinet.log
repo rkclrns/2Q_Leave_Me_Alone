@@ -1,0 +1,411 @@
+﻿  Contents.h
+  InteractiveObjectsHeader.h
+  LoadAnimation.cpp
+  LoadSprite.cpp
+  FloorBase.cpp
+  Cat.cpp
+  Human.cpp
+  HumanFSMBase.cpp
+  Idle_Human.cpp
+  Run_Human.cpp
+  Surprise_Human.cpp
+  Walk_Human.cpp
+  IFSMObjectCore.cpp
+  DisposableObject.cpp
+  FallingObject.cpp
+  NonFallingObject.cpp
+  Bottle.cpp
+  CandleLight.cpp
+  Chandelier.cpp
+  Pot.cpp
+  S_frame01.cpp
+  S_lamp.cpp
+  TeaCup.cpp
+  FixedObject.cpp
+  TV.cpp
+  Bed.cpp
+  Clock_big.cpp
+  M_window01.cpp
+  Mannequin.cpp
+  Mirror_01.cpp
+  Piano.cpp
+  Statue.cpp
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.cpp(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InteractiveObject.cpp
+  MovingObject.cpp
+  Broom.cpp
+  Chair.cpp
+  Doll.cpp
+  OldBook.cpp
+  Light.cpp
+  TestScript.cpp
+  IntroScene_01.cpp
+  Stage_01.cpp
+  Test.cpp
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         with
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         [
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:             _Ty=int
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Math\Random.h(29,55): warning C4267:         ]
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(52,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::StickType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\GamePad.h(58,16): warning C4240: 비표준 확장이 사용됨: 'GamePad::TriggerType'에 대한 액세스가 이제 'public'(으)로 정의됩니다. 이전에는 'private'(으)로 정의되었습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Engine\Helper\Input\Input.h(36,54): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(16,52): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\Client\Script\Object\Human\Human.h(17,36): warning C4244: 'return': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Clinet.vcxproj -> D:\2Q_mini\Leave_Me_Alone\5_Project\2024-08-05\2QProject\x64\Debug\Client.exe

@@ -1,0 +1,3 @@
+cooltime:1
+bodyscale:150,150
+hitscale:200,200

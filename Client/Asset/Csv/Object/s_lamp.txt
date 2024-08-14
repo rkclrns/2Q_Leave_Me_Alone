@@ -1,0 +1,4 @@
+horror:22
+bodyscale:150,150
+hitscale:200,200
+fadetime:2
